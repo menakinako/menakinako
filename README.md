@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://github.com/menakinako/menakinako/blob/main/images/imgbin_github-computer-programming-software-repository-png.png" width="400"height="400"/>
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Payoja Muduli</h1>
@@ -71,4 +71,7 @@ Here are some ideas to get you started:
  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=menakinako&theme=react&border=eb1394&ring=eb1394&fire=eb1394" alt="menakinako" />
     </a>
+  <br/><br/>
+  
+   [![Payoja's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=menakinako&theme=rogue)](https://github.com/menakinako)
 
