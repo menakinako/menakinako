@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <em>
-    This is ME, Payoja Muduli, a <b>junior</b> undergraduate from <a href="https://www.acetamritsar.ac.in/"> <b>International Institute of Information Technology</b>, Bhubaneshwar</a>. <br>
+    This is ME, Payoja Muduli, a <b>junior</b> undergraduate from <a href="https://www.iiit-bh.ac.in/"> <b>International Institute of Information Technology</b>, Bhubaneshwar</a>. <br>
     A budding <b>Full-Stack Web Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
